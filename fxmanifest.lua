@@ -7,8 +7,7 @@ versioncheck 'https://raw.githubusercontent.com/thelindat/linden_outlawalert/mas
 
 shared_scripts {
     'config.lua',
-    'locales/locales.lua',
-    '@qb-core/import.lua'
+    'locales/locales.lua'
 }
 
 client_script 'client/main.lua'
